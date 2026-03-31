@@ -1,0 +1,10 @@
+/target/
+Cargo.lock
+**/*.rs.bk
+proc_macro_test/
+.env
+.venv
+.vscode/
+.idea/
+*.swp
+*~
